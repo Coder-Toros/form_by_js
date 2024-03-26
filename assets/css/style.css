@@ -90,3 +90,12 @@ button{
     background-color: rgb(40,210,208);
     border: 0;
 }
+
+#wrong-password, 
+#error-compare-password{
+    font-size: 1.2em;
+    border: 2px solid red;
+    width: 92%;
+    text-align: center;
+    padding: 2px 0;
+}
